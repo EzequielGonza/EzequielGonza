@@ -1,7 +1,6 @@
 # ¡Hola, soy Ezequiel! 👋  
 **Analista de Datos** | Power BI | SQL | Python | Excel  
 
-🔗 LinkedIn: [ezequiel-gonzalez-cvi](https://www.linkedin.com/in/ezequiel-gonzalez-cvi)
 
 ---
 
@@ -47,7 +46,7 @@ Estudio estadístico de jugadores y equipos de la NBA enfocado en eficiencia ofe
 ### 📬 Contacto
 
 📧 Email: **ezequiel.gonzalez08a@gmail.com**    
-
+🔗 LinkedIn: [ezequiel-gonzalez-cvi](https://www.linkedin.com/in/ezequiel-gonzalez-cvi)
 
 ---
 
