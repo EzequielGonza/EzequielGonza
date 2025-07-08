@@ -14,7 +14,6 @@ Me dedico a transformar datos en herramientas que impulsen decisiones inteligent
 - 📈 Diseño reportes que resuelven preguntas críticas del negocio y generan valor real.
 
 
-
 ---
 
 ### 🚀 Proyectos Destacados
@@ -26,4 +25,27 @@ Análisis detallado del impacto del COVID-19 en América Latina para identificar
 Dashboard financiero de una empresa ficticia que muestra rendimiento comercial por región, productos más vendidos, evolución de ingresos y utilidades. Usé Power BI para visualizaciones y SQL para construir un modelo de datos limpio y optimizado.
 
 #### 📌 **NBAdVision – Análisis de Rendimiento en la NBA**
-Estudio estadístico de jugadores y equipos de la NBA enfocado en eficiencia ofensiva y defensiva. Usé Python para la limp
+Estudio estadístico de jugadores y equipos de la NBA enfocado en eficiencia ofensiva y defensiva. Usé Python para la limpieza y análisis de datos, SQL para estructurar la información y Power BI para visualizar patrones de rendimiento deportivo.
+
+---
+
+### 🎓 Formación
+
+**Bootcamp de Análisis de Datos – Henry**  
++700 horas de formación intensiva en herramientas como SQL, Python, Power BI, Estadística, Git y metodologías ágiles.
+
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 📬 Contacto
+
+📧 Email: **ezequiel.gonzalez08a@gmail.com**  
+🔗 LinkedIn: [ezequiel-gonzalez-cvi](https://www.linkedin.com/in/ezequiel-gonzalez-cvi)  
+📁 GitHub: [github.com/EzequielGonza](https://github.com/EzequielGonza) *(reemplazá si tu usuario es otro)*
+
+---
+
