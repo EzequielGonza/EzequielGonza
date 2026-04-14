@@ -62,13 +62,6 @@ Flujo de automatización con n8n + IA Generativa para el proceso de screening de
 - Inglés: B2
 - Francés: B1
  
----
- 
-## 📬 Contacto
- 
-- 📧 ezequiel.gonzalez08a@gmail.com
-- 📱 +54 381 2392424
-- 💼 [LinkedIn](https://www.linkedin.com/in/ezequiel-gonzalez)
 
 ---
 
@@ -79,10 +72,11 @@ Flujo de automatización con n8n + IA Generativa para el proceso de screening de
 
 ---
 
-### 📬 Contacto
-
-📧 Email: **ezequiel.gonzalez08a@gmail.com**    
-🔗 LinkedIn: [ezequiel-gonzalez-cvi](https://www.linkedin.com/in/ezequiel-gonzalez-cvi)
+## 📬 Contacto
+ 
+- 📧 ezequiel.gonzalez08a@gmail.com
+- 📱 +54 381 2392424
+- 💼 [LinkedIn](https://www.linkedin.com/in/ezequiel-gonzalez)
 
 ---
 
