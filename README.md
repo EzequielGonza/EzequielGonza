@@ -1,38 +1,74 @@
-# ¡Hola, soy Ezequiel! 👋  
-**Analista de Datos** | Power BI | SQL | Python | Excel  
+Readme · MD
+Copiar
 
-
+# ¡Hola, soy Ezequiel González! 👋
+ 
+**Data Analyst** | Power BI · SQL · Python · Looker Studio · IA Generativa
+ 
 ---
-
-### 🔎 ¿Qué hago?
-
-Me dedico a transformar datos en herramientas que impulsen decisiones inteligentes. Me entusiasma trabajar con grandes volúmenes de información, limpiar y analizar datos, y convertirlos en visualizaciones claras que cuenten una historia.
-
-- 📊 Desarrollo dashboards interactivos con **Power BI** para mostrar indicadores clave y facilitar decisiones estratégicas.
-- ⚙️ Utilizo **Python** y **SQL** para explorar, modelar y optimizar procesos a partir de los datos.
-- 📈 Diseño reportes que resuelven preguntas críticas del negocio y generan valor real.
-
-
+ 
+## 🔎 ¿Qué hago?
+ 
+Me especializo en transformar datos en decisiones de negocio. Desarrollo dashboards end-to-end, modelos de datos y reportes ejecutivos para sectores como retail, salud y e-commerce. También integro IA Generativa y automatización con n8n para optimizar procesos y reducir tiempos operativos.
+ 
+Trabajé en proyectos reales cubriendo desde el modelado en SQL Server hasta la entrega de métricas clave como ROI, ingresos y expansión de mercado. Me adapto bien a equipos técnicos y no técnicos, y comunico hallazgos con claridad a distintos tipos de audiencias.
+ 
+**Stack principal:**
+ 
+`Power BI` `Looker Studio` `SQL Server` `Python` `Excel` `n8n` `DAX` `ETL` `IA Generativa` `GitHub Copilot`
+ 
 ---
-
-### 🚀 Proyectos Destacados
-
-#### 📌 **Biogenesys – Expansión Estratégica en LATAM**
-Análisis detallado del impacto del COVID-19 en América Latina para identificar los mejores países donde instalar nuevos centros de salud. Incluyó limpieza avanzada de datos con Python, modelado de series temporales y diseño de dashboard interactivo en Power BI con KPIs clave como vacunación, personal médico y mortalidad.
-
-#### 📌 **Adventure Works – Reporte Financiero y de Ventas**
-Dashboard financiero de una empresa ficticia que muestra rendimiento comercial por región, productos más vendidos, evolución de ingresos y utilidades. Usé Power BI para visualizaciones y SQL para construir un modelo de datos limpio y optimizado.
-
-#### 📌 **NBAdVision – Análisis de Rendimiento en la NBA**
-Estudio estadístico de jugadores y equipos de la NBA enfocado en eficiencia ofensiva y defensiva. Usé Python para la limpieza y análisis de datos, SQL para estructurar la información y Power BI para visualizar patrones de rendimiento deportivo.
-
+ 
+## 🚀 Proyectos Destacados
+ 
+### 📌 Biogenesys – Expansión Estratégica en LATAM
+Análisis del impacto del COVID-19 en América Latina para identificar los mejores países donde instalar nuevos centros de salud. Incluyó limpieza avanzada de datos con Python, modelado de series temporales y dashboard en Power BI con KPIs clave como vacunación, personal médico y mortalidad.
+ 
+`Python` `Power BI` `ETL` `Salud`
+ 
 ---
-
-### 🎓 Formación
-
-**Bootcamp de Análisis de Datos – Henry**  
-+700 horas de formación intensiva en herramientas como SQL, Python, Power BI, Estadística, Git y metodologías ágiles.
-
+ 
+### 📌 Adventure Works – Reporte Financiero y de Ventas
+Dashboard financiero con métricas DAX: ROI, ingresos, ganancias, rendimiento comercial por región y productos más vendidos. Modelo de datos limpio y optimizado construido en SQL Server.
+ 
+`Power BI` `SQL Server` `DAX` `Retail`
+ 
+---
+ 
+### 📌 NBAdVision – Análisis de Rendimiento NBA
+Estudio estadístico de jugadores y equipos con foco en eficiencia ofensiva y defensiva. Pipeline completo: limpieza en Python, estructuración en SQL y visualización de patrones de rendimiento en Power BI.
+ 
+`Python` `SQL` `Power BI` `Deportes`
+ 
+---
+ 
+### 📌 Automatización de Screening de CVs – CALM
+Flujo de automatización con n8n + IA Generativa para el proceso de screening de candidatos en un equipo de People, reduciendo significativamente los tiempos operativos del área.
+ 
+`n8n` `IA Generativa` `Automatización` `RRHH`
+ 
+---
+ 
+## 🎓 Formación
+ 
+- **Data Analyst Bootcamp – Henry** · +700 hs · 2025
+- **Data Analytics – Codo a Codo BA** · 2022
+- **Certificaciones Google (Coursera):** Prompting, Análisis de datos, Marketing Digital & E-commerce
+ 
+---
+ 
+## 🌐 Idiomas
+ 
+- Inglés: B2
+- Francés: B1
+ 
+---
+ 
+## 📬 Contacto
+ 
+- 📧 ezequiel.gonzalez08a@gmail.com
+- 📱 +54 381 2392424
+- 💼 [LinkedIn](https://www.linkedin.com/in/ezequiel-gonzalez)
 
 ---
 
